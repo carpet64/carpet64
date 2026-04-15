@@ -1,4 +1,4 @@
-## Hi there 👋
+## ЗДРАВСТВУЙТЕ
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carpet64&show_icons=true)
 
 <!--
